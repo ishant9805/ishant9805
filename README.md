@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ishant Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Loading+profile...;Backend+Developer;Full+Stack+Engineer;AI+Enthusiast;Product+Builder;Open+Source+Contributor&center=true&width=750&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Loading+profile...;Backend+Developer;Full+Stack+Engineer;AI+Enthusiast;Product+Builder;Electrical+Engineer&center=true&width=750&height=45&font=Fira+Code&weight=500&duration=3000&pause=1000&color=D347F7&random=true">
 </p>
 
 <p align="center">
@@ -18,15 +18,16 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Sc. Data Science & Applications** @ IIT Madras  
-- ⚡ Backend & Full Stack Developer (Python-first)
-- 🧠 Strong foundation in **DSA, Databases & System Design**
+- 🎓 **B.Sc. Data Science & Applications** — IIT Madras (CGPA: 9.41)
+- ⚡ **B.Tech Electrical Engineering** — MMMUT (Microprocessors & Embedded Systems)
+- 💻 Backend & Full Stack Developer (Python-first)
+- 🧠 Strong foundation in **DSA, Databases, System Design & Computer Architecture**
 - 🏗 Built multiple production-grade platforms & APIs
 - 🏆 Topper in 14 IITM subjects | 5★ Python @ HackerRank
-- 💡 Interested in **AI Engineering, Product Building & Startups**
-- 🌱 Currently exploring **AI, ML, Vision Systems & Robotics**
+- 💡 Interested in **AI Engineering, Robotics, Vision Systems & Product Building**
+- 🌱 Currently exploring **AI, ML, Microprocessors & Embedded AI**
 
-📫 **Email:** `ishantkumar@prologix.co`  
+📫 **Email:** `ishantkumar@gmail.com`  
 🌐 **GitHub:** https://github.com/ishant9805  
 
 ---
@@ -46,6 +47,7 @@
 - Vue.js Frontend Integration
 - Scalable Product Architecture
 - DevOps & Deployment (Linux, Docker)
+- Microprocessors & Interfacing (8085, Architecture, Instruction Set, IO)
 
 ---
 
@@ -60,21 +62,23 @@
 
 ---
 
-### 🏠 HousyDousy — Rental Platform
-- Flask + Bootstrap
-- Property listing & booking system
-- Role-based access (Admin/User)
-- Payment-ready architecture
+### 🏠 HousyDousy — UrbanClap Clone
+- Service marketplace platform
+- Customer & professional onboarding
+- Service booking & scheduling
+- Admin control panel
+- Modular backend architecture
 
 ---
 
-### 🏗 VISPR — Smart Construction Platform
+### 🐦 VISPR — Twitter Clone
 🌐 **GitHub:** https://github.com/ishant9805/vispr  
 
-- Django-based project management system
-- Document control & workflows
-- Project collaboration modules
-- Construction lifecycle management
+- Real-time social media platform
+- Tweet text & image posting
+- Tailwind-powered UI
+- Auth system & feed engine
+- Modern responsive design
 
 ---
 
@@ -82,7 +86,7 @@
 - Flask backend + modular architecture
 - Company & warehouse management
 - Role-based onboarding
-- Search & analytics
+- Inventory tracking & analytics
 - Designed for ERP/WMS scaling
 
 ---
@@ -106,20 +110,10 @@
 - 🏅 Master Rank on Code360 (12,306 XP)  
 - 📜 CS50 & freeCodeCamp Full Stack Certified  
 - 🎓 Scholarship Recipient  
+- ⚡ High performer in **Microprocessors & Interfacing** (MMMUT)
 
 ---
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ishant9805/ishant9805/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
-</p>
 
 ## 🌐 Connect With Me
 
@@ -127,10 +121,10 @@
   <a href="https://github.com/ishant9805" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/ishantkumar9805" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:ishantkumar@prologix.co">
+  <a href="mailto:ishantkumar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
