@@ -23,7 +23,7 @@
 - 💻 Backend & Full Stack Developer (Python-first)
 - 🧠 Strong foundation in **DSA, Databases, System Design & Computer Architecture**
 - 🏗 Built multiple production-grade platforms & APIs
-- 🏆 Topper in 14 IITM subjects | 5★ Python @ HackerRank
+- 🏆 Topper in 19 IITM subjects | 5★ Python @ HackerRank
 - 💡 Interested in **AI Engineering, Robotics, Vision Systems & Product Building**
 - 🌱 Currently exploring **AI, ML, Microprocessors & Embedded AI**
 
