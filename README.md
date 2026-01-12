@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ## 👨‍💻 About Me
@@ -49,7 +49,9 @@
 - DevOps & Deployment (Linux, Docker)
 - Microprocessors & Interfacing (8085, Architecture, Instruction Set, IO)
 
----
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
 ## 🚀 Featured Projects
 
@@ -100,10 +102,8 @@
 - Returns structured JSON + visual insights
 - Designed for legal, finance & research domains
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 ## 🏆 Achievements
@@ -115,23 +115,37 @@
 - 🎓 Scholarship Recipient  
 - ⚡ High performer in **Microprocessors & Interfacing** (MMMUT)
 
----
+
+>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/ishant9805" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=github" />
+<!--icons and links-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishantkumar9805/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/ishantkumar9805" target="_blank" style="margin-right:15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://github.com/ishant9805" target="_blank" style="margin-right:15px;">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="50" width="50" />
   </a>
   <a href="mailto:ishant9805@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="50" width="50" />
   </a>
 </p>
+  
+</p>
 
----
+
+<!-- <details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![Ishant's Github Stats](https://github-readme-stats.vercel.app/api?username=ishant9805&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/ishant9805/github-readme-stats) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=ishant9805&layout=compact&theme=tokyonight)](https://github.com/ishant9805/github-readme-stats)
+
+</details> -->
 
 > *“Build systems. Build products. Let impact define your career.”* ⭐
