@@ -54,6 +54,7 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Quiz Master — Learning Platform
+🌐 **GitHub:** https://github.com/23f2001685/quiz_master_23f2001685
 - Flask + Vue.js + Redis + Celery
 - Real-time quiz engine
 - Background task processing
@@ -63,6 +64,7 @@
 ---
 
 ### 🏠 HousyDousy — UrbanClap Clone
+🌐 **GitHub:** https://github.com/23f2001685/household-services-app-v1-test
 - Service marketplace platform
 - Customer & professional onboarding
 - Service booking & scheduling
@@ -92,6 +94,7 @@
 ---
 
 ### 🤖 Agentic AI API Platform
+🌐 **GitHub:** https://github.com/23f2001685/dataanalyst
 - Autonomous data sourcing & analysis agent
 - Accepts task-based POST requests
 - Returns structured JSON + visual insights
@@ -118,10 +121,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/ishant9805" target="_blank">
+  <a href="https://github.com/ishant9805" target="_blank" style="margin-right:15px;">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/ishantkumar9805" target="_blank">
+  <a href="https://www.linkedin.com/in/ishantkumar9805" target="_blank" style="margin-right:15px;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:ishant9805@gmail.com">
