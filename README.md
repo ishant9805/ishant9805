@@ -27,7 +27,7 @@
 - 💡 Interested in **AI Engineering, Robotics, Vision Systems & Product Building**
 - 🌱 Currently exploring **AI, ML, Microprocessors & Embedded AI**
 
-📫 **Email:** `ishantkumar@gmail.com`  
+📫 **Email:** `ishant9805@gmail.com`  
 🌐 **GitHub:** https://github.com/ishant9805  
 
 ---
@@ -124,7 +124,7 @@
   <a href="https://www.linkedin.com/in/ishantkumar9805" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:ishantkumar@gmail.com">
+  <a href="mailto:ishant9805@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
