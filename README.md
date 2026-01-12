@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Sc. Data Science & Applications** — IIT Madras (CGPA: 9.41)
+- 🎓 **B.Sc. Data Science & Applications** — [IIT Madras](https://app.onlinedegree.iitm.ac.in/student/23F2001685) (CGPA: 9.41)
 - ⚡ **B.Tech Electrical Engineering** — MMMUT (Microprocessors & Embedded Systems)
 - 💻 Backend & Full Stack Developer (Python-first)
 - 🧠 Strong foundation in **DSA, Databases, System Design & Computer Architecture**
