@@ -13,7 +13,7 @@
 - 🌱 I'm constantly learning and exploring new technologies
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, programming, and technology**
-- 📫 How to reach me: **ishant9805@github.com**
+- 📫 How to reach me: **ishant9805@gmail.com**
 - ⚡ Fun fact: **I love coding and solving complex problems**
 
 ---
