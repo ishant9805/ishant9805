@@ -87,7 +87,7 @@
 ---
 
 ### 📦 Inventro — Inventory & WMS Platform
-- Flask backend + modular architecture
+- FastAPI backend + modular architecture
 - Company & warehouse management
 - Role-based onboarding
 - Inventory tracking & analytics
